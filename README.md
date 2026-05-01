@@ -60,11 +60,3 @@ The simulation models a pedestrian standing in fog at distances from 0 to 100 me
 No additional toolboxes required. The simulation uses only core MATLAB functions.
 
 ---
-
-## 📥 Installation & Usage
-
-### Step 1: Clone the repository
-
-```bash
-git clone https://github.com/yourusername/lidar-vs-camera-fog.git
-cd lidar-vs-camera-fog
