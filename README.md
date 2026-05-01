@@ -6,7 +6,7 @@
 
 **Why Tesla can't see a person in fog — a data-driven investigation using real IEEE attenuation coefficients.**
 
-![Demo Plot](demo_plot.png)
+Medium: https://medium.com/@dana_fm/why-tesla-cant-see-a-person-in-fog-i-loaded-10-000-lidar-and-camera-points-into-matlab-4ac4df0475dc
 
 ---
 
